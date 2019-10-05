@@ -59,7 +59,7 @@ namespace llistatdejocs
             {
                 case "1":
                     Console.Clear();
-                    //Buscaminas();
+                    Buscaminas();
                     EnterPerSortir();
                     break;
                 case "2":
@@ -78,10 +78,10 @@ namespace llistatdejocs
             Console.WriteLine();
         }
 
-        //private static void Buscaminas()
-        //{
-        //    Console.WriteLine("  Estas jugant al buscaminas!");
-        //}
+        private static void Buscaminas()
+        {
+            Console.WriteLine("  Estas jugant al buscaminas!");
+        }
 
         private static void EnterPerSortir()
         {
