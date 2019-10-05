@@ -80,7 +80,7 @@ namespace llistatdejocs
 
         private static void Buscaminas()
         {
-            Console.WriteLine("  Estas jugant al buscaminas!");
+            Console.WriteLine("  <!> Estas jugant al buscaminas 3D! <!>");
         }
 
         private static void EnterPerSortir()
