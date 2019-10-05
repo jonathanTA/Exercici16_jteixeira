@@ -85,14 +85,15 @@ namespace llistatdejocs
             Console.WriteLine("  Estas jugant al millor buscaminas del món!");
             Console.WriteLine("  <!> Estas jugant al buscaminas 3D! <!>");
         }
-
+<<<<<<< HEAD
         private static void Tetris()
         {
             Console.WriteLine("  Estas jugant al Tetris!");
-        }
+=======
         private static void Ajedrez()
         {
             Console.WriteLine("  Estas jugant al Ajedrez!");
+>>>>>>> ajedrez
         }
 
         private static void EnterPerSortir()
