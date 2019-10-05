@@ -72,6 +72,7 @@ namespace llistatdejocs
                     break;
                 case "4":
                     Console.Clear();
+                    Damas();
                     EnterPerSortir();
                     break;
             }
@@ -82,6 +83,10 @@ namespace llistatdejocs
         {
             Console.WriteLine("  Estas jugant al millor buscaminas del món!");
             Console.WriteLine("  <!> Estas jugant al buscaminas 3D! <!>");
+        }
+        private static void Damas()
+        {
+            Console.WriteLine("  Estas jugant a las Damas!");
         }
 
         private static void EnterPerSortir()
