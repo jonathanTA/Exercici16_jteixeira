@@ -68,6 +68,7 @@ namespace llistatdejocs
                     break;
                 case "3":
                     Console.Clear();
+                    Ajedrez();
                     EnterPerSortir();
                     break;
                 case "4":
@@ -82,6 +83,10 @@ namespace llistatdejocs
         {
             Console.WriteLine("  Estas jugant al millor buscaminas del món!");
             Console.WriteLine("  <!> Estas jugant al buscaminas 3D! <!>");
+        }
+        private static void Ajedrez()
+        {
+            Console.WriteLine("  Estas jugant al Ajedrez!");
         }
 
         private static void EnterPerSortir()
