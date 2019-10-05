@@ -1,0 +1,7 @@
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\bin\Debug\llistatdejocs.exe.config
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\bin\Debug\llistatdejocs.exe
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\bin\Debug\llistatdejocs.pdb
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\obj\Debug\llistatdejocs.csprojAssemblyReference.cache
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\obj\Debug\llistatdejocs.csproj.CoreCompileInputs.cache
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\obj\Debug\llistatdejocs.exe
+C:\Provesgit\Exercici16\Exercici16_jteixeira\LlistatDeJocs\llistatdejocs\obj\Debug\llistatdejocs.pdb
